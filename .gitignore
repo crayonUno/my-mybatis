@@ -1,0 +1,77 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+
+# Log files
+*.log
+
+# IntelliJ IDEA project-specific files
+.idea/
+*.iml
+*.iws
+
+# Eclipse project files
+.metadata
+.project
+.settings/
+
+# NetBeans project files
+.nbproject/
+
+# Maven local repository
+target/
+
+# Tomcat configuration files (if using Tomcat)
+*.conf
+*.log
+*.temp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA version control files
+*.iml
+*.iws
+
+# Spring Boot application specific files
+*.log
+*.pid
+
+# JRebel plugin files
+.rebel.xml
+.rebel-*.jar
+
+# Fortify plugin files
+*.fpr
+
+# YourKit Java Profiler
+*.yjp
+
+# JUnit temporary files
+junit*.dir
+
+# IntelliJ JUnit result report
+TEST-*.xml
+
+# SonarQube
+sonar-project.properties
+sonarscanner.properties
+sonarqube/conf/
+
+# Jenkins files
+jenkins.xml
+jenkins_home/
+
+# Gradle files
+.gradle/
+
+# OS or IDE specific files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+._*
